@@ -1,0 +1,30 @@
+{
+  "name": "routerex",
+  "version": "0.0.1",
+  "description": "A vue-router extension to pre-configure routes, middlewares and layouts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jprodrigues70/routerex.git"
+  },
+  "keywords": [
+    "router",
+    "vue",
+    "middleware",
+    "layout",
+    "route"
+  ],
+  "author": "JP Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jprodrigues70/routerex/issues"
+  },
+  "homepage": "https://github.com/jprodrigues70/routerex#readme",
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.4"
+  }
+}
