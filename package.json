@@ -1,5 +1,5 @@
 {
-  "name": "routerex",
+  "name": "@jprodrigues70/routerex",
   "version": "0.0.1",
   "description": "A vue-router extension to pre-configure routes, middlewares and layouts.",
   "main": "index.js",
@@ -26,5 +26,8 @@
   "dependencies": {
     "vue": "^3.0.0",
     "vue-router": "^4.0.4"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
